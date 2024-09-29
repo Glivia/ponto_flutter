@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:io';
 import 'package:projeto_ponto/LoginPage.dart';
 
 void main() {
